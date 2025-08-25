@@ -29,7 +29,6 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="[https://github.com/KavinilaLoganathan-2507]"><img >
-  <a href="https:https://www.linkedin.com/in/kavinila-loganathan"><img> 
+  <a href="https://github.com/KavinilaLoganathan"><img src="https://img.shields.io/badge/GitHub-KavinilaLoganathan-2507-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://www.linkedin.com/in/kavinila-loganathan-1bb49b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" /></a>
 </p>
-
