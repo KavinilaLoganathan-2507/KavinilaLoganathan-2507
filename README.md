@@ -1,13 +1,15 @@
 # KavinilaLoganathan
-About Mee....!
-# 👋 Hi, I'm Kavinila Loganathan  
+# 👋 Hi, I'm Kavinila Loganathan
+
+<img width="1024" height="1536" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
+
 
 <img src="A_digital_illustration_features_a_young_girl_with_.png" alt="Girl with headphones and panda doll" width="300" align="right" />
 
-## 🌟 About Me  
+## 🌟 About Me....!
 - 🎓 Pursuing **Artificial Intelligence**  
-- 🐍 Skilled in **Python**, **C**, **C++**  
-- ☕ Currently learning **Java** & **Frontend Development**  
+- 🐍 Skilled in **Python**, **C**, **C++**,**Frontend Development**   
+- ☕ Currently learning **Java**  
 - 💬 Extrovert | Love connecting & sharing ideas  
 
 ---
@@ -26,16 +28,10 @@ About Mee....!
 
 ---
 
-## 📊 GitHub Stats  
-
-![Kavinila's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinilaLoganathan&show_icons=true&theme=radical)  
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://github.com/KavinilaLoganathan"><img src="https://img.shields.io/badge/GitHub-KavinilaLoganathan-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="[https://github.com/KavinilaLoganathan-2507]"><img 
+  <a href="https:https://www.linkedin.com/in/kavinila-loganathan-1bb49b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img 
 </p>
 
