@@ -29,7 +29,8 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="[https://github.com/KavinilaLoganathan-2507]"><img 
-  <a href="https:https://www.linkedin.com/in/kavinila-loganathan"><img 
+  <a href="[https://github.com/KavinilaLoganathan-2507]"><img >
+  <a href="https:https://www.linkedin.com/in/kavinila-loganathan"><img> /a> 
+    /a>
 </p>
 
