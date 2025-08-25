@@ -30,7 +30,6 @@
 
 <p align="left">
   <a href="[https://github.com/KavinilaLoganathan-2507]"><img >
-  <a href="https:https://www.linkedin.com/in/kavinila-loganathan"><img> /a> 
-    /a>
+  <a href="https:https://www.linkedin.com/in/kavinila-loganathan"><img> 
 </p>
 
