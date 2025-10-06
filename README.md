@@ -1,7 +1,7 @@
 # KavinilaLoganathan
 # 👋 Hi, I'm Kavinila Loganathan
 
-<img width="1024" height="1536" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
+<img width="600" height="700" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
 
 
 ## 🌟 About Me....!
