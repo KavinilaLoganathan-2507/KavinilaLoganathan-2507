@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Kavinila Loganathan
 ### 💡 AI Enthusiast | Python Coder | Collaboration Seeker
 
-<img width="250" height="500" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
+<img width="700" height="500" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
 
 ## 🚀 About Me
 
@@ -30,7 +30,6 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://github.com/KavinilaLoganathan"><img src="https://img.shields.io/badge/GitHub-KavinilaLoganathan-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:kavinilaloganathan@gmail.com"><img src="https://img.shields.io/badge/Email-kavinilaloganathan%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
