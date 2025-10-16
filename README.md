@@ -1,13 +1,15 @@
 # KavinilaLoganathan
 # 👋 Hi, I'm Kavinila Loganathan
+### 💡 AI Enthusiast | Python Coder | Collaboration Seeker
 
 <img width="250" height="500" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
 
-## 🌟 About Me....!
-- 🎓 Pursuing **Artificial Intelligence**  
-- 🐍 Skilled in **Python**, **C**, **C++**,**Frontend Development**   
-- ☕ Currently learning **Java**  
-- 💬 Extrovert | Love connecting & sharing ideas  
+## 🚀 About Me
+
+* 🧠 **Passionate about Artificial Intelligence** and leveraging it to solve real-world problems.
+* 💻 Proficient in **Python**, **C/C++**, and dedicated to **Frontend Development**.
+* 📚 Actively expanding my skillset by learning **Java**.
+* 🌟 An **extroverted coder** who loves to **collaborate** and share knowledge with the tech community.
 
 ---
 
