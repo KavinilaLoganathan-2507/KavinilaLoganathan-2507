@@ -3,7 +3,7 @@
 ### 💡 AI Enthusiast | Python Coder | Collaboration Seeker
 
 
-  <img width="350" height="550" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
+  <img width="300" height="450" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01" />
 
                                       
 ## 🚀 About Me
@@ -33,6 +33,7 @@
 
 <p align="left">
   <a href="mailto:kavinilaloganathan@gmail.com"><img src="https://img.shields.io/badge/Email-kavinilaloganathan%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/kavinila-loganathan-1bb49b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" /></a>
 </p>
 
 
