@@ -1,20 +1,20 @@
 # KavinilaLoganathan
-# 👋 Hi, I'm Kavinila Loganathan
-### 💡 AI Enthusiast | Python Coder | Collaboration Seeker
+# Hi, I'm Kavinila Loganathan
+### AI Enthusiast | Python Coder | Collaboration Seeker
 <p align="left"><img src="Happy Art GIF.gif"></p><p align="left"><img width="250" height="300" alt="ChatGPT Image Aug 25, 2025, 08_52_59 PM" src="https://github.com/user-attachments/assets/77525663-b852-4014-9680-6c8135785b01"/> 
 </p>  
 
                                       
-## 🚀 About Me
+##  About Me
 
-* 🧠 **Passionate about Artificial Intelligence** and leveraging it to solve real-world problems.
-* 💻 Proficient in **Python**, **C/C++**, and dedicated to **Frontend Development**.
-* 📚 Actively expanding my skillset by learning **Java**.
-* 🌟 An **extroverted coder** who loves to **collaborate** and share knowledge with the tech community.
+*  **Passionate about Artificial Intelligence** and leveraging it to solve real-world problems.
+*  Proficient in **Python**, **C/C++**, and dedicated to **Frontend Development**.
+*  Actively expanding my skillset by learning **Java**.
+*  An **extroverted coder** who loves to **collaborate** and share knowledge with the tech community.
 
 ---
 
-## 💻 Languages & Tools  
+##  Languages & Tools  
 
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
